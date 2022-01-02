@@ -1,0 +1,9 @@
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\bin\Debug\BUS_QLTBDT.dll
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\bin\Debug\BUS_QLTBDT.pdb
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\bin\Debug\DAL_QLTBDT.dll
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\bin\Debug\DAL_QLTBDT.pdb
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\obj\Debug\BUS_QLTBDT.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\obj\Debug\BUS_QLTBDT.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\obj\Debug\BUS_QLTBDT.csproj.CopyComplete
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\obj\Debug\BUS_QLTBDT.dll
+C:\Users\nguye\Desktop\do_an_HK1\QLTB_DienThoai_18T1021093\BUS_QLTBDT\obj\Debug\BUS_QLTBDT.pdb
